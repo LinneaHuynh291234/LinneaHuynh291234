@@ -6,7 +6,7 @@
 🎓 I completed <strong>IBM Data Analyst Professional Certificate</strong>
 📚 Keep pursuing <strong>IBM Data Science Professional Certificate</strong>
 <br>
-📫 Based in <strong>Sweden</strong>
+📫 Based in <strong>Sweden</strong><br>
 🚀 Technology never sleeps, and neither do I!
 <br>
 ⚡ Let’s connect and make data shine!!<br>
