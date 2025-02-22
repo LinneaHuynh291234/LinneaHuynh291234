@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Linnea </h1> 
 
-💻 5 years of experience as Business Analyst in Tech
+💻 5 years of experience as a Business Analyst in Tech
 🔍 Currently looking for a <strong>Junior Data Analyst</strong> or <strong>Data Scientist</strong> position
 <br>
 🎓 I completed <strong>IBM Data Analyst Professional Certificate</strong>
