@@ -9,7 +9,7 @@
 📫 Based in <strong>Sweden</strong>
 🚀 Technology never sleeps, and neither do I!
 <br>
-⚡ Let’s connect and make data shine!!
+⚡ Let’s connect and make data shine!!<br>
 📩 You can reach me at Linnea_huynh@outlook.com<br> 
 ## Languages and Tools 🛠️
 
