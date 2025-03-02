@@ -3,8 +3,8 @@
 💻 5 years of experience as a Business Analyst in Tech
 🔍 Currently looking for a role that combines <strong>Business, Data and Technology<strong>. #DataAnalyst #BusinessAnalyst #DataScientist #AIRelatedRole.
 <br>
-🎓 I completed <strong>IBM Data Analyst Professional Certificate</strong>
-📚 Keep pursuing <strong>IBM Data Science Professional Certificate</strong>
+🎓 I completed <strong>IBM Data Analyst Professional Certificate
+📚 Keep pursuing <strong>IBM Machine Learning Professional Certificate
 <br>
 📫 Based in <strong>Sweden</strong><br>
 🚀 Technology never sleeps, and neither do I!
